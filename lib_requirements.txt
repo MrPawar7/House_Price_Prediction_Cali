@@ -1,0 +1,10 @@
+# libraries used in the analysis.
+pandas
+numpy
+matplotlib
+seaborn
+kagglehub
+os
+scikit-learn
+sklearn
+xgboost
